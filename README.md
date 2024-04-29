@@ -1,4 +1,4 @@
-# pm2 for ml project deployment
+# pm2 for ML project deployment
 
 ## For help
 
@@ -32,7 +32,7 @@ pm2 stop app or (pm2 stop 0)
 
 pm2 restart app or (pm2 restart 0)
 
-# Showing the application
+## Showing the application
 
 pm2 show app
 
